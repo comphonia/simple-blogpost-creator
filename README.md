@@ -1,5 +1,5 @@
 # simple-blogpost-creator
-### Simple blog post creator with upload function
+### Simple blog post creator with upload function [bootstrap 4, php, sql, js]
 
 Post creator was made for my blog to start publishing posts while I create a full CMS, It is easily customizable; if you know a bit of php and sql, you can easily tailor this to your own needs. 
 
