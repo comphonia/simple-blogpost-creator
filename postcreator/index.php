@@ -25,7 +25,7 @@
                 <div class="col-12 mb-5">
                     <div class="jumbotron bg-info">
                         <div class="display-1 text-light text-center">
-                            <p> Post Uploader</p>
+                            <p> Post Creator</p>
                         </div>
                     </div>
 
